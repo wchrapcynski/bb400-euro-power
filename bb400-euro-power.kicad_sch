@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "BB400 Eurorack Power Breakout")
+		(date "11/22/2026")
 		(rev "v0.1")
 		(company "William Chrapcynski")
 		(comment 1 "CC BY-NC-SA 4.0")
