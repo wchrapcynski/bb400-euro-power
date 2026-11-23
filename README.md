@@ -1,6 +1,6 @@
 # BB400 Eurorack Power Breakout
 
-<img width="631" height="505" alt="image" src="https://github.com/user-attachments/assets/e71d8d14-acf6-4d2a-9679-675f95e8e00f" />
+<img width="978" height="713" alt="image" src="https://github.com/user-attachments/assets/cdc950c7-37f7-4d49-bedc-84f2ca4e07d3" />
 
 A minimal, U-shaped Eurorack power breakout PCB designed to plug directly into the power rails of a **BusBoard BB400** (400-tie-point) solderless breadboard without blocking the main prototyping area.
 
