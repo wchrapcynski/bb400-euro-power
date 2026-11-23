@@ -1406,7 +1406,7 @@
 			(uuid "afc140f8-0d9d-4394-9c83-87cde2e77917")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.5 2 90)
+			(at -2.25 2 90)
 			(layer "F.SilkS")
 			(uuid "73c76bec-eb4c-4c0c-9d48-88a302388f32")
 			(effects
@@ -3603,7 +3603,7 @@
 			(uuid "c86a015a-bc90-400f-b67c-ee8edebbc38c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.5 2 90)
+			(at -2 2 90)
 			(layer "F.SilkS")
 			(uuid "c58ac87a-29ae-49e4-8bd7-2c95d4658910")
 			(effects
@@ -5197,7 +5197,7 @@
 			(uuid "7d9d1eef-0510-4b86-8ae0-ac164131c888")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -2.5 2.1 90)
+			(at -2.25 2.1 90)
 			(layer "F.SilkS")
 			(uuid "c4a327f7-5c7d-425c-b923-acb13bbdad49")
 			(effects
