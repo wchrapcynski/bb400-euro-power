@@ -6669,7 +6669,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 107 126.5 90)
+		(at 107.25 126.5 90)
 		(layer "F.SilkS")
 		(uuid "0ce9dd59-abd3-4b4d-ba89-b749afe41649")
 		(effects
@@ -6693,7 +6693,7 @@
 		)
 	)
 	(gr_text "+5V"
-		(at 151.25 126.5 90)
+		(at 151.5 126.5 90)
 		(layer "F.SilkS")
 		(uuid "9b8ecb0a-9651-4c7a-b745-d9048b896b72")
 		(effects
