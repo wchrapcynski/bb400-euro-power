@@ -23,7 +23,7 @@ A minimal, U-shaped Eurorack power breakout PCB designed to plug directly into t
 - **Left Arm (`J2`):** Outer rail (`+` red) = **`+12V`** | Inner rail (`-` black) = **`GND`**
 - **Right Arm (`J3`):** Inner rail (`-` black) = **`-12V`** | Outer rail (`+` red) = **`+5V`**
 
-## Bill of Materials (BOM)
+## Bill of Materials (BOM) ([Interactive BOM](https://wchrapcynski.github.io/bb400-euro-power/bom/ibom.html))
 
 | Ref | Qty | Value / Description | Footprint / Notes |
 | :--- | :---: | :--- | :--- |
